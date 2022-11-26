@@ -1,0 +1,11 @@
+{
+  "name": "xrx-redux-promise",
+  "version": "1.0.0",
+  "description": "个人模仿的redux-promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
