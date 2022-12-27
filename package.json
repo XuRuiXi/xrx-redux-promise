@@ -1,6 +1,6 @@
 {
   "name": "xrx-redux-promise",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "个人模仿的redux-promise",
   "main": "lib/index.js",
   "types": "./index.d.ts",
